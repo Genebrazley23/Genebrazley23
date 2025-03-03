@@ -29,6 +29,11 @@ Database & Deployment: MongoDB, Mongoose, Microsoft Azure Cloud, AWS, Google Clo
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 
+## Table Of Content
+- [Project: Around The U.S.](https://github.com/Genebrazley23/se_projectaroundtheUS)
+- [Project: WTWR](https://github.com/Genebrazley23/se_project_WTWR-Full)
+- [Project: Triple Peaks Library](https://github.com/Genebrazley23/se_project_library--S1)
+- [Project: Project Frontend - News Search and Display](https://github.com/Genebrazley23/Project-frontend)
 
 
 
