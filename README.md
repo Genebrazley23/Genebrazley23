@@ -1,4 +1,4 @@
-👋 Hi, I’m @Genebrazley23
+ ## Hi, I’m @Genebrazley23
 
 I graduated from TripleTen as a Full Stack Web Developer (MERN) through an intensive online bootcamp. During my learning journey, I actively assisted fellow students with course-related questions, sprint assignments, and projects.
 
