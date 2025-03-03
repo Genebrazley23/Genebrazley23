@@ -15,7 +15,7 @@ Database & Deployment: MongoDB, Mongoose, Microsoft Azure Cloud, AWS, Google Clo
 
 - 👀 I’m interested in learning and gaining knowledge 
 - 🌱 I’m currently learning more on bettering skills
-- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me brazley23@gmail.com
 - ⚡ Fun fact: I like to read or listen to a book a day
 
 
